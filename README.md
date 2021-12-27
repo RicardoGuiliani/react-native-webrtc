@@ -22,6 +22,7 @@ Everyone is welcome to our [Discourse community](https://react-native-webrtc.dis
   * macOS: x86_64
 
 ## Installation
+`$ npm install RicardoGuiliani/react-native-webrtc`
 
 - [iOS](https://github.com/react-native-webrtc/react-native-webrtc/blob/master/Documentation/iOSInstallation.md)
 - [Android](https://github.com/react-native-webrtc/react-native-webrtc/blob/master/Documentation/AndroidInstallation.md)
